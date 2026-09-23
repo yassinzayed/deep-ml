@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:48:40.427Z",
+  "generated_at": "2026-09-24T00:48:43.124Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1504,6 +1504,156 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-22T23:58:13.638Z",
       "last_pushed_at": "2026-09-22T23:58:13.638Z"
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-09-23T00:10:17.573Z",
+      "last_pushed_at": "2026-09-23T00:10:17.573Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-09-23T00:20:43.912Z",
+      "last_pushed_at": "2026-09-23T00:20:43.912Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-09-23T00:39:16.139Z",
+      "last_pushed_at": "2026-09-23T00:39:16.139Z",
+      "language": "python",
+      "lines": 19
+    },
+    "math:39": {
+      "kind": "math",
+      "id": "39",
+      "title": "Bias–Variance Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/39",
+      "path": "math/0039-bias-variance-decomposition",
+      "first_solved_at": "2026-09-23T15:35:59.870Z",
+      "last_pushed_at": "2026-09-23T15:35:59.870Z"
+    },
+    "math:43": {
+      "kind": "math",
+      "id": "43",
+      "title": "Model Selection: CV, AIC, and BIC",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/43",
+      "path": "math/0043-model-selection-cv-aic-and-bic",
+      "first_solved_at": "2026-09-23T15:40:24.063Z",
+      "last_pushed_at": "2026-09-23T15:40:24.063Z"
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-09-23T15:43:45.880Z",
+      "last_pushed_at": "2026-09-23T15:43:45.880Z"
+    },
+    "problem:305": {
+      "kind": "problem",
+      "id": "305",
+      "title": "Implement Hard Voting Classifier",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/305",
+      "path": "problems/0305-implement-hard-voting-classifier",
+      "first_solved_at": "2026-09-23T15:52:45.453Z",
+      "last_pushed_at": "2026-09-23T15:52:45.453Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:343": {
+      "kind": "problem",
+      "id": "343",
+      "title": "Implement Random Forest Feature Importance",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/343",
+      "path": "problems/0343-implement-random-forest-feature-importance",
+      "first_solved_at": "2026-09-23T16:00:27.150Z",
+      "last_pushed_at": "2026-09-23T16:00:27.150Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-09-23T16:11:26.749Z",
+      "last_pushed_at": "2026-09-23T16:11:26.749Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:368": {
+      "kind": "problem",
+      "id": "368",
+      "title": "Calculate BIC/AIC for Model Selection",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/368",
+      "path": "problems/0368-calculate-bic-aic-for-model-selection",
+      "first_solved_at": "2026-09-23T16:18:21.717Z",
+      "last_pushed_at": "2026-09-23T16:18:21.717Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-09-23T22:19:23.137Z",
+      "last_pushed_at": "2026-09-23T22:19:23.137Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:221": {
+      "kind": "problem",
+      "id": "221",
+      "title": "Newton's Method for Optimization",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/221",
+      "path": "problems/0221-newton-s-method-for-optimization",
+      "first_solved_at": "2026-09-23T22:35:07.400Z",
+      "last_pushed_at": "2026-09-23T22:35:07.400Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }

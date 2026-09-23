@@ -2,7 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 81 problems · 0 labs · 41 math
+**Completed:** Calculus (9/9)
+
+**134** solved · 90 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,8 +32,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-17 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-17 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-17 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
+| [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-23 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-17 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-09-22 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-09-23 | [solution](problems/0305-implement-hard-voting-classifier) |
+| [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-09-23 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-20 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-22 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-22 | [solution](problems/0043-implement-ridge-regression-loss-function) |
@@ -53,9 +58,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-09-17 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-22 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-20 | [solution](problems/0079-binomial-distribution-probability) |
+| [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-09-23 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-18 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-19 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-09-21 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
+| [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-09-23 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-09-20 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-09-20 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
@@ -70,10 +77,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-22 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-22 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-21 | [solution](problems/0205-entropy-cross-entropy) |
+| [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-09-23 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-22 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-09-21 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-21 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-09-22 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
+| [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-09-23 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-21 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-09-21 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-19 | [solution](problems/0329-matrix-rank) |
@@ -81,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-09-21 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-21 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-22 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
+| [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-09-23 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-20 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-20 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-09-19 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
@@ -88,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-17 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-09-21 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-22 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-23 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-22 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-09-22 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-21 | [solution](problems/0201-qr-decomposition) |
@@ -98,16 +109,19 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-23 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-17 | [solution](math/0001-derivatives-and-gradients) |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-17 | [solution](math/0018-descriptive-statistics) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-09-17 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-17 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-17 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-22 | [solution](math/0030-ml-workflow-basics) |
+| [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-23 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-17 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-17 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-20 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-20 | [solution](math/0020-bayes-theorem) |
+| [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-23 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-09-20 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-09-20 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-18 | [solution](math/0017-covariance-and-correlation) |
