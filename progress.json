@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:53:34.111Z",
+  "generated_at": "2026-09-24T11:55:38.527Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1703,7 +1703,7 @@
       "url": "https://www.deep-ml.com/problems/108",
       "path": "problems/0108-measure-disorder-in-apple-colors",
       "first_solved_at": "2026-09-24T11:53:33.324Z",
-      "last_pushed_at": "2026-09-24T11:53:33.324Z",
+      "last_pushed_at": "2026-09-24T11:55:37.833Z",
       "language": "python",
       "lines": 6
     }
