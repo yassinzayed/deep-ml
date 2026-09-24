@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:07:03.049Z",
+  "generated_at": "2026-09-24T11:15:02.126Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1667,6 +1667,19 @@
       "last_pushed_at": "2026-09-24T11:07:01.913Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2026-09-24T11:15:01.151Z",
+      "last_pushed_at": "2026-09-24T11:15:01.151Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
