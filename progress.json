@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:51:57.973Z",
+  "generated_at": "2026-09-24T11:53:34.111Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1693,6 +1693,19 @@
       "last_pushed_at": "2026-09-24T11:51:56.924Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:108": {
+      "kind": "problem",
+      "id": "108",
+      "title": "Measure Disorder in Apple Colors",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/108",
+      "path": "problems/0108-measure-disorder-in-apple-colors",
+      "first_solved_at": "2026-09-24T11:53:33.324Z",
+      "last_pushed_at": "2026-09-24T11:53:33.324Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
