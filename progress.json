@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:20:53.280Z",
+  "generated_at": "2026-09-24T13:23:27.891Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1795,6 +1795,19 @@
       "path": "problems/0377-linear-learning-rate-decay",
       "first_solved_at": "2026-09-24T13:20:52.255Z",
       "last_pushed_at": "2026-09-24T13:20:52.255Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:281": {
+      "kind": "problem",
+      "id": "281",
+      "title": "Implement Polynomial Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/281",
+      "path": "problems/0281-implement-polynomial-kernel-function",
+      "first_solved_at": "2026-09-24T13:23:27.112Z",
+      "last_pushed_at": "2026-09-24T13:23:27.112Z",
       "language": "python",
       "lines": 17
     }
