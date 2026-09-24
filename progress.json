@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:57:18.928Z",
+  "generated_at": "2026-09-24T23:03:08.262Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2109,6 +2109,19 @@
       "last_pushed_at": "2026-09-24T22:57:17.702Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1049": {
+      "kind": "problem",
+      "id": "1049",
+      "title": "Tanh Logit Soft-Capping",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1049",
+      "path": "problems/1049-tanh-logit-soft-capping",
+      "first_solved_at": "2026-09-24T23:03:06.824Z",
+      "last_pushed_at": "2026-09-24T23:03:06.824Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
