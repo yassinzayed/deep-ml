@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:07:14.072Z",
+  "generated_at": "2026-09-24T14:37:23.842Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1836,6 +1836,19 @@
       "last_pushed_at": "2026-09-24T14:07:12.948Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:797": {
+      "kind": "problem",
+      "id": "797",
+      "title": "Macro-Average Accuracy Across Benchmark Subtasks",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/797",
+      "path": "problems/0797-macro-average-accuracy-across-benchmark-subtasks",
+      "first_solved_at": "2026-09-24T14:37:22.337Z",
+      "last_pushed_at": "2026-09-24T14:37:22.337Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
