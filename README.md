@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**154** solved · 110 problems · 0 labs · 44 math
+**155** solved · 111 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-09-24 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-22 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-22 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-09-24 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Mish Activation Function](https://www.deep-ml.com/problems/262) | easy | 2026-09-24 | [solution](problems/0262-implement-the-mish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-24 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-09-21 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |

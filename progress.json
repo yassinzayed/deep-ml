@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:17:43.062Z",
+  "generated_at": "2026-09-24T15:20:09.221Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1914,6 +1914,19 @@
       "last_pushed_at": "2026-09-24T15:17:41.450Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:266": {
+      "kind": "problem",
+      "id": "266",
+      "title": "Implement the Hardtanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/266",
+      "path": "problems/0266-implement-the-hardtanh-activation-function",
+      "first_solved_at": "2026-09-24T15:20:08.523Z",
+      "last_pushed_at": "2026-09-24T15:20:08.523Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
