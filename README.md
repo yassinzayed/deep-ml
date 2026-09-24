@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**158** solved · 114 problems · 0 labs · 44 math
+**159** solved · 115 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-20 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-09-24 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-22 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-24 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-22 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-09-24 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Mish Activation Function](https://www.deep-ml.com/problems/262) | easy | 2026-09-24 | [solution](problems/0262-implement-the-mish-activation-function) |
