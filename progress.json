@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:51:44.533Z",
+  "generated_at": "2026-09-24T22:54:57.586Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2081,6 +2081,19 @@
       "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
       "first_solved_at": "2026-09-24T22:51:43.743Z",
       "last_pushed_at": "2026-09-24T22:51:43.743Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1278": {
+      "kind": "problem",
+      "id": "1278",
+      "title": "Tensor Puzzle: Reverse a Vector",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1278",
+      "path": "problems/1278-tensor-puzzle-reverse-a-vector",
+      "first_solved_at": "2026-09-24T22:54:56.733Z",
+      "last_pushed_at": "2026-09-24T22:54:56.733Z",
       "language": "python",
       "lines": 8
     }
