@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:33:58.264Z",
+  "generated_at": "2026-09-25T20:40:54.788Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2200,6 +2200,19 @@
       "last_pushed_at": "2026-09-25T20:33:57.455Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1217": {
+      "kind": "problem",
+      "id": "1217",
+      "title": "Compute TPR and FPR from Classifications",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1217",
+      "path": "problems/1217-compute-tpr-and-fpr-from-classifications",
+      "first_solved_at": "2026-09-25T20:40:53.638Z",
+      "last_pushed_at": "2026-09-25T20:40:53.638Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
