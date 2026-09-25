@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**173** solved · 129 problems · 0 labs · 44 math
+**174** solved · 130 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-09-24 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-24 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Top Quartile Reward Score Filter](https://www.deep-ml.com/problems/778) | easy | 2026-09-24 | [solution](problems/0778-top-quartile-reward-score-filter) |
+| [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-25 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-22 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-17 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-17 | [solution](problems/0121-vector-element-wise-sum) |
