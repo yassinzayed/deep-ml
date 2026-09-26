@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:24:06.206Z",
+  "generated_at": "2026-09-26T19:29:56.966Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2265,6 +2265,19 @@
       "last_pushed_at": "2026-09-26T14:24:05.639Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:411": {
+      "kind": "problem",
+      "id": "411",
+      "title": "Compute TTFT ITL and TPS from a Token Timestamp Stream",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/411",
+      "path": "problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream",
+      "first_solved_at": "2026-09-26T19:29:55.801Z",
+      "last_pushed_at": "2026-09-26T19:29:55.801Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
