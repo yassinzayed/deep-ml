@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**185** solved · 141 problems · 0 labs · 44 math
+**186** solved · 142 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-20 | [solution](problems/0219-derivative-of-softmax) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-22 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-22 | [solution](problems/0848-dummy-regressor-baseline) |
+| [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-27 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-21 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-09-23 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-22 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
