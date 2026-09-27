@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**186** solved · 142 problems · 0 labs · 44 math
+**187** solved · 143 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-09-24 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-24 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-24 | [solution](problems/0264-implement-the-tanh-activation-function) |
+| [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-09-27 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-09-21 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-19 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-09-25 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
