@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:34:13.954Z",
+  "generated_at": "2026-09-28T20:35:13.504Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2457,7 +2457,7 @@
       "url": "https://www.deep-ml.com/problems/1279",
       "path": "problems/1279-tensor-puzzle-compress-keep-true-positions",
       "first_solved_at": "2026-09-28T20:34:13.178Z",
-      "last_pushed_at": "2026-09-28T20:34:13.178Z",
+      "last_pushed_at": "2026-09-28T20:35:12.579Z",
       "language": "python",
       "lines": 8
     }
