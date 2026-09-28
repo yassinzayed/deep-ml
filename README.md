@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**192** solved · 148 problems · 0 labs · 44 math
+**193** solved · 149 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Tanh Logit Soft-Capping](https://www.deep-ml.com/problems/1049) | easy | 2026-09-24 | [solution](problems/1049-tanh-logit-soft-capping) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-09-24 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
+| [Tensor Puzzle: Heaviside Step with Zero-Value](https://www.deep-ml.com/problems/1286) | easy | 2026-09-28 | [solution](problems/1286-tensor-puzzle-heaviside-step-with-zero-value) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-09-21 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Pad or Truncate a Vector to Length j](https://www.deep-ml.com/problems/1280) | easy | 2026-09-28 | [solution](problems/1280-tensor-puzzle-pad-or-truncate-a-vector-to-length-j) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-09-24 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
