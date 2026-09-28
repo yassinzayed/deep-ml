@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**189** solved · 145 problems · 0 labs · 44 math
+**190** solved · 146 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-19 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-20 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-20 | [solution](problems/0219-derivative-of-softmax) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-28 | [solution](problems/0151-dropout-layer) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-22 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-22 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-27 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |

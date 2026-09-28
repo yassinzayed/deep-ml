@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:52:56.818Z",
+  "generated_at": "2026-09-28T01:05:18.024Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2369,6 +2369,19 @@
       "last_pushed_at": "2026-09-27T18:52:55.368Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-09-28T01:05:16.563Z",
+      "last_pushed_at": "2026-09-28T01:05:16.563Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
