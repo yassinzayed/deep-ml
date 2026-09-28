@@ -17,5 +17,4 @@ def sinkhorn_knopp(B: list, t_max: int = 20) -> list:
         M = M/(row_sum[:, None])
         col_sum = np.sum(M, axis=0)
         M = M/col_sum
-        #M = tr*(tc*M)
     return M

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:28:18.732Z",
+  "generated_at": "2026-09-28T20:28:34.120Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2444,9 +2444,9 @@
       "url": "https://www.deep-ml.com/problems/732",
       "path": "problems/0732-sinkhorn-knopp-doubly-stochastic-projection",
       "first_solved_at": "2026-09-28T20:28:17.742Z",
-      "last_pushed_at": "2026-09-28T20:28:17.742Z",
+      "last_pushed_at": "2026-09-28T20:28:32.320Z",
       "language": "python",
-      "lines": 22
+      "lines": 21
     }
   }
 }
