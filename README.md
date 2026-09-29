@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**205** solved · 160 problems · 0 labs · 45 math
+**206** solved · 161 problems · 0 labs · 45 math
 
 ![Coverage](./coverage.svg)
 
@@ -144,6 +144,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-25 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-29 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-09-23 | [solution](problems/0343-implement-random-forest-feature-importance) |
+| [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-29 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-21 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-29 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-09-21 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |

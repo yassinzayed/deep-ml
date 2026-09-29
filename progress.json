@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:49:38.466Z",
+  "generated_at": "2026-09-29T14:54:21.526Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2575,6 +2575,19 @@
       "path": "math/0042-margins-and-soft-margin-svms",
       "first_solved_at": "2026-09-29T14:49:37.679Z",
       "last_pushed_at": "2026-09-29T14:49:37.679Z"
+    },
+    "problem:280": {
+      "kind": "problem",
+      "id": "280",
+      "title": "Implement RBF (Gaussian) Kernel Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/280",
+      "path": "problems/0280-implement-rbf-gaussian-kernel-function",
+      "first_solved_at": "2026-09-29T14:54:20.525Z",
+      "last_pushed_at": "2026-09-29T14:54:20.525Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
