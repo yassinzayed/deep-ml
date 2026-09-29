@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:06:22.648Z",
+  "generated_at": "2026-09-29T22:17:20.864Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2827,6 +2827,17 @@
       "last_pushed_at": "2026-09-29T22:06:21.893Z",
       "language": "python",
       "lines": 21
+    },
+    "math:199": {
+      "kind": "math",
+      "id": "199",
+      "title": "Asymmetric Binary Cross-Entropy and the Elimination Threshold",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/199",
+      "path": "math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold",
+      "first_solved_at": "2026-09-29T22:17:19.893Z",
+      "last_pushed_at": "2026-09-29T22:17:19.893Z"
     }
   }
 }
