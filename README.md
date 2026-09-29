@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**208** solved · 163 problems · 0 labs · 45 math
+**209** solved · 164 problems · 0 labs · 45 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-29 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-22 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-17 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-29 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Sinkhorn-Knopp Doubly Stochastic Projection](https://www.deep-ml.com/problems/732) | medium | 2026-09-28 | [solution](problems/0732-sinkhorn-knopp-doubly-stochastic-projection) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-09-21 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-22 | [solution](problems/0842-standardscaler-fit-and-transform) |
