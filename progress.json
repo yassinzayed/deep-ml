@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:14:29.723Z",
+  "generated_at": "2026-09-29T00:35:18.390Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2499,6 +2499,19 @@
       "last_pushed_at": "2026-09-29T00:14:29.012Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:1259": {
+      "kind": "problem",
+      "id": "1259",
+      "title": "Double Quantization of Scales",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1259",
+      "path": "problems/1259-double-quantization-of-scales",
+      "first_solved_at": "2026-09-29T00:35:17.311Z",
+      "last_pushed_at": "2026-09-29T00:35:17.311Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
