@@ -19,5 +19,5 @@ def pca_reconstruction_error(X: np.ndarray, n_components: int) -> float:
     z = np.matmul(X_mean, eigen_vecs)
     proj = np.matmul(z, eigen_vecs.T)
     reconstructed = proj+np.mean(X, axis=0)
-    mse = (1/(len(X)*len(X[0])))*(sum(sum(np.square(X-reconstructed))))
+    mse = (1/(X.shape[0]*X.shape[1]))*(sum(sum(np.square(X-reconstructed))))
     return float(mse)
