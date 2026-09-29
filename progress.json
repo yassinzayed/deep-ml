@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:46:33.685Z",
+  "generated_at": "2026-09-29T20:49:54.605Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2753,6 +2753,19 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-09-29T20:46:32.885Z",
       "last_pushed_at": "2026-09-29T20:46:32.885Z"
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-09-29T20:49:51.544Z",
+      "last_pushed_at": "2026-09-29T20:49:51.544Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
