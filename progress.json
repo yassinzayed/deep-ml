@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:56:47.480Z",
+  "generated_at": "2026-09-29T22:00:21.100Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2803,6 +2803,17 @@
       "path": "math/0151-xgboost-split-gain-from-the-second-order-objective",
       "first_solved_at": "2026-09-29T21:56:42.358Z",
       "last_pushed_at": "2026-09-29T21:56:42.358Z"
+    },
+    "math:122": {
+      "kind": "math",
+      "id": "122",
+      "title": "Matrix Completion and Missing Values",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/122",
+      "path": "math/0122-matrix-completion-and-missing-values",
+      "first_solved_at": "2026-09-29T22:00:20.403Z",
+      "last_pushed_at": "2026-09-29T22:00:20.403Z"
     }
   }
 }
