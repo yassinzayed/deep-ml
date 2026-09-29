@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:17:20.864Z",
+  "generated_at": "2026-09-29T22:21:37.839Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2838,6 +2838,19 @@
       "path": "math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold",
       "first_solved_at": "2026-09-29T22:17:19.893Z",
       "last_pushed_at": "2026-09-29T22:17:19.893Z"
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2026-09-29T22:21:37.152Z",
+      "last_pushed_at": "2026-09-29T22:21:37.152Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
