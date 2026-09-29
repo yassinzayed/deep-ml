@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:21:08.286Z",
+  "generated_at": "2026-09-29T16:23:12.808Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2599,6 +2599,19 @@
       "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
       "first_solved_at": "2026-09-29T15:21:07.369Z",
       "last_pushed_at": "2026-09-29T15:21:07.369Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:350": {
+      "kind": "problem",
+      "id": "350",
+      "title": "Calculate Explained Variance Ratio for PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/350",
+      "path": "problems/0350-calculate-explained-variance-ratio-for-pca",
+      "first_solved_at": "2026-09-29T16:23:11.982Z",
+      "last_pushed_at": "2026-09-29T16:23:11.982Z",
       "language": "python",
       "lines": 17
     }
