@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**220** solved · 173 problems · 0 labs · 47 math
+**221** solved · 174 problems · 0 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-09-29 | [solution](problems/0145-adagrad-optimizer) |
+| [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-29 | [solution](problems/0148-adamax-optimizer) |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-09-28 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-09-26 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-22 | [solution](problems/0104-binary-classification-with-logistic-regression) |
