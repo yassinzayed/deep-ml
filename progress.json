@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:14:40.215Z",
+  "generated_at": "2026-09-30T17:15:11.837Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2946,9 +2946,9 @@
       "url": "https://www.deep-ml.com/problems/799",
       "path": "problems/0799-quadratic-discriminant-analysis-qda-classifier",
       "first_solved_at": "2026-09-30T17:14:39.089Z",
-      "last_pushed_at": "2026-09-30T17:14:39.089Z",
+      "last_pushed_at": "2026-09-30T17:15:10.879Z",
       "language": "python",
-      "lines": 38
+      "lines": 25
     }
   }
 }
