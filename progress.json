@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:53:19.699Z",
+  "generated_at": "2026-09-30T13:12:21.247Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2910,6 +2910,19 @@
       "path": "math/0041-the-em-algorithm",
       "first_solved_at": "2026-09-30T12:53:18.023Z",
       "last_pushed_at": "2026-09-30T12:53:18.023Z"
+    },
+    "problem:365": {
+      "kind": "problem",
+      "id": "365",
+      "title": "Implement Gaussian Mixture Model (GMM) E-step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/365",
+      "path": "problems/0365-implement-gaussian-mixture-model-gmm-e-step",
+      "first_solved_at": "2026-09-30T13:12:20.347Z",
+      "last_pushed_at": "2026-09-30T13:12:20.347Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
