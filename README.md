@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**236** solved · 183 problems · 0 labs · 53 math
+**237** solved · 184 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -172,6 +172,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-09-21 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-21 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-09-30 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-24 | [solution](problems/0204-mutual-information) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-22 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-09-23 | [solution](problems/0221-newton-s-method-for-optimization) |
