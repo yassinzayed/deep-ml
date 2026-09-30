@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**230** solved · 179 problems · 0 labs · 51 math
+**231** solved · 179 problems · 0 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -236,6 +236,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-20 | [solution](math/0031-regularization-and-generalization) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-20 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-17 | [solution](math/0013-solving-linear-systems) |
+| [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-30 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-19 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-21 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-17 | [solution](math/0008-vector-norms-and-linear-independence) |
