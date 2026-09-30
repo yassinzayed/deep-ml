@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**233** solved · 180 problems · 0 labs · 53 math
+**234** solved · 181 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -164,6 +164,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-29 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-21 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-29 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [Linear Discriminant Analysis (LDA) Binary Classifier](https://www.deep-ml.com/problems/798) | medium | 2026-09-30 | [solution](problems/0798-linear-discriminant-analysis-lda-binary-classifier) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-09-21 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-19 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-17 | [solution](problems/0009-matrix-times-matrix) |
