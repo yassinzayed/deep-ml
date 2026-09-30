@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:48:55.556Z",
+  "generated_at": "2026-09-30T12:53:19.699Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2899,6 +2899,17 @@
       "path": "math/0027-statistical-inference",
       "first_solved_at": "2026-09-30T12:48:54.738Z",
       "last_pushed_at": "2026-09-30T12:48:54.738Z"
+    },
+    "math:41": {
+      "kind": "math",
+      "id": "41",
+      "title": "The EM Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/41",
+      "path": "math/0041-the-em-algorithm",
+      "first_solved_at": "2026-09-30T12:53:18.023Z",
+      "last_pushed_at": "2026-09-30T12:53:18.023Z"
     }
   }
 }

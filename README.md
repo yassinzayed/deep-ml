@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**231** solved · 179 problems · 0 labs · 52 math
+**232** solved · 179 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -238,6 +238,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-17 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-30 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-19 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
+| [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-30 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-21 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-17 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-09-29 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
