@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:25:19.519Z",
+  "generated_at": "2026-10-01T20:36:26.759Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3051,6 +3051,19 @@
       "path": "math/0141-gradient-of-a-weight-shared-across-passes",
       "first_solved_at": "2026-10-01T20:25:16.984Z",
       "last_pushed_at": "2026-10-01T20:25:16.984Z"
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-10-01T20:36:25.717Z",
+      "last_pushed_at": "2026-10-01T20:36:25.717Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
