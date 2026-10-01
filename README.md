@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**241** solved · 188 problems · 0 labs · 53 math
+**242** solved · 189 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-09-24 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-22 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-29 | [solution](problems/0146-momentum-optimizer) |
+| [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-10-01 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-01 | [solution](problems/1234-one-sgd-update-step) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-19 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-09-26 | [solution](problems/0081-poisson-distribution-probability-calculator) |
