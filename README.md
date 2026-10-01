@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**238** solved · 185 problems · 0 labs · 53 math
+**239** solved · 186 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -185,6 +185,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quadratic Discriminant Analysis (QDA) Classifier](https://www.deep-ml.com/problems/799) | medium | 2026-09-30 | [solution](problems/0799-quadratic-discriminant-analysis-qda-classifier) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-17 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-29 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Sinkhorn-Knopp Doubly Stochastic Projection](https://www.deep-ml.com/problems/732) | medium | 2026-09-28 | [solution](problems/0732-sinkhorn-knopp-doubly-stochastic-projection) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-09-21 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-22 | [solution](problems/0842-standardscaler-fit-and-transform) |
