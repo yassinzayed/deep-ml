@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**240** solved · 187 problems · 0 labs · 53 math
+**241** solved · 188 problems · 0 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -179,6 +179,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-09-23 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-20 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-20 | [solution](problems/0313-numerical-gradient-checking) |
+| [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-01 | [solution](problems/1236-one-adam-update-step) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-09-19 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-29 | [solution](problems/0801-polynomial-regression-fit) |
