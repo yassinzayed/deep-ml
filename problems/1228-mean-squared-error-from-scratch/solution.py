@@ -11,4 +11,4 @@ def mse(pred, target):
     Returns:
         float: Mean of squared differences.
     """
-    return float(torch.mean((pred-target)**2))
+    return torch.mean((pred-target)**2).item()
