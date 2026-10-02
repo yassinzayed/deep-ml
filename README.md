@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**249** solved · 195 problems · 0 labs · 54 math
+**250** solved · 196 problems · 0 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -132,6 +132,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-29 | [solution](problems/0087-adam-optimizer) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-22 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-29 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-02 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-20 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-09-29 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-09-23 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
