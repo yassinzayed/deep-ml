@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**245** solved · 191 problems · 0 labs · 54 math
+**246** solved · 192 problems · 0 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-24 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-09-25 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-20 | [solution](problems/0331-check-linear-independence-of-vectors) |
+| [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-02 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-09-29 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-28 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-09-20 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
