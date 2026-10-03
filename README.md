@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**252** solved · 198 problems · 0 labs · 54 math
+**253** solved · 199 problems · 0 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-17 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-17 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-30 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-10-03 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-24 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-23 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-09-29 | [solution](problems/0188-gradient-checkpointing) |
