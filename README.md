@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**254** solved · 200 problems · 0 labs · 54 math
+**255** solved · 200 problems · 0 labs · 55 math
 
 ![Coverage](./coverage.svg)
 
@@ -224,6 +224,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-17 | [solution](math/0018-descriptive-statistics) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-09-17 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-17 | [solution](math/0005-gradient-descent-updates) |
+| [Little's Law: Concurrency, Throughput and Latency](https://www.deep-ml.com/math-problems/162) | easy | 2026-10-03 | [solution](math/0162-little-s-law-concurrency-throughput-and-latency) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-17 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-22 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-23 | [solution](math/0043-model-selection-cv-aic-and-bic) |
