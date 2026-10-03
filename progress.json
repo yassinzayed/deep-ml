@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:51:22.856Z",
+  "generated_at": "2026-10-03T16:53:26.311Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3155,6 +3155,19 @@
       "last_pushed_at": "2026-10-03T16:51:22.091Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-10-03T16:53:24.657Z",
+      "last_pushed_at": "2026-10-03T16:53:24.657Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }

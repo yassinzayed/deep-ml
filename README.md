@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**251** solved · 197 problems · 0 labs · 54 math
+**252** solved · 198 problems · 0 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-09-26 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-09-27 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-29 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-03 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-09-19 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-17 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-19 | [solution](problems/0217-derivatives-of-activation-functions) |
