@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:59:27.392Z",
+  "generated_at": "2026-10-04T17:02:40.075Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3249,6 +3249,17 @@
       "path": "math/0115-boosting-learning-slowly-from-residuals",
       "first_solved_at": "2026-10-04T16:59:24.583Z",
       "last_pushed_at": "2026-10-04T16:59:24.583Z"
+    },
+    "math:108": {
+      "kind": "math",
+      "id": "108",
+      "title": "Dimension Reduction: Principal Components and Partial Least Squares",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/108",
+      "path": "math/0108-dimension-reduction-principal-components-and-partial-least-squares",
+      "first_solved_at": "2026-10-04T17:02:39.254Z",
+      "last_pushed_at": "2026-10-04T17:02:39.254Z"
     }
   }
 }
