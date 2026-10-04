@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:52:55.067Z",
+  "generated_at": "2026-10-04T16:55:25.665Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3227,6 +3227,17 @@
       "path": "math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering",
       "first_solved_at": "2026-10-04T16:52:54.152Z",
       "last_pushed_at": "2026-10-04T16:52:54.152Z"
+    },
+    "math:117": {
+      "kind": "math",
+      "id": "117",
+      "title": "Recurrent Networks, Weight Sharing and Vanishing Gradients",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/117",
+      "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
+      "first_solved_at": "2026-10-04T16:55:24.851Z",
+      "last_pushed_at": "2026-10-04T16:55:24.851Z"
     }
   }
 }
