@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:09:12.514Z",
+  "generated_at": "2026-10-04T16:48:47.422Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3205,6 +3205,17 @@
       "path": "math/0162-little-s-law-concurrency-throughput-and-latency",
       "first_solved_at": "2026-10-03T17:09:11.812Z",
       "last_pushed_at": "2026-10-03T17:09:11.812Z"
+    },
+    "math:195": {
+      "kind": "math",
+      "id": "195",
+      "title": "Lattices of Partial Information: Order, Meet, Join and the Grid Powerset Lattice",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/195",
+      "path": "math/0195-lattices-of-partial-information-order-meet-join-and-the-grid-powerset-lattice",
+      "first_solved_at": "2026-10-04T16:48:46.515Z",
+      "last_pushed_at": "2026-10-04T16:48:46.515Z"
     }
   }
 }
