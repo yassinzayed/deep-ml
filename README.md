@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**260** solved · 200 problems · 0 labs · 60 math
+**261** solved · 200 problems · 0 labs · 61 math
 
 ![Coverage](./coverage.svg)
 
@@ -273,6 +273,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy Collapse on Hard Tasks and Positive-Ratio Filtering](https://www.deep-ml.com/math-problems/208) | hard | 2026-10-04 | [solution](math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-29 | [solution](math/0118-interpolation-and-double-descent) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-20 | [solution](math/0025-kl-divergence) |
+| [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-10-04 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-29 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-20 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-20 | [solution](math/0026-maximum-likelihood-and-map) |

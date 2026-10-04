@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:02:40.075Z",
+  "generated_at": "2026-10-04T17:06:39.432Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3260,6 +3260,17 @@
       "path": "math/0108-dimension-reduction-principal-components-and-partial-least-squares",
       "first_solved_at": "2026-10-04T17:02:39.254Z",
       "last_pushed_at": "2026-10-04T17:02:39.254Z"
+    },
+    "math:111": {
+      "kind": "math",
+      "id": "111",
+      "title": "Local Regression and Generalized Additive Models",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/111",
+      "path": "math/0111-local-regression-and-generalized-additive-models",
+      "first_solved_at": "2026-10-04T17:06:38.464Z",
+      "last_pushed_at": "2026-10-04T17:06:38.464Z"
     }
   }
 }
