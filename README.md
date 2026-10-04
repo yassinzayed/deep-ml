@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**256** solved · 200 problems · 0 labs · 56 math
+**257** solved · 200 problems · 0 labs · 57 math
 
 ![Coverage](./coverage.svg)
 
@@ -268,6 +268,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-09-29 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-29 | [solution](math/0028-bayesian-methods) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-20 | [solution](math/0016-eigendecomposition-and-svd) |
+| [Entropy Collapse on Hard Tasks and Positive-Ratio Filtering](https://www.deep-ml.com/math-problems/208) | hard | 2026-10-04 | [solution](math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-29 | [solution](math/0118-interpolation-and-double-descent) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-20 | [solution](math/0025-kl-divergence) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-29 | [solution](math/0122-matrix-completion-and-missing-values) |

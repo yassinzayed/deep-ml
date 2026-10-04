@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:48:47.422Z",
+  "generated_at": "2026-10-04T16:52:55.067Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3216,6 +3216,17 @@
       "path": "math/0195-lattices-of-partial-information-order-meet-join-and-the-grid-powerset-lattice",
       "first_solved_at": "2026-10-04T16:48:46.515Z",
       "last_pushed_at": "2026-10-04T16:48:46.515Z"
+    },
+    "math:208": {
+      "kind": "math",
+      "id": "208",
+      "title": "Entropy Collapse on Hard Tasks and Positive-Ratio Filtering",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/208",
+      "path": "math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering",
+      "first_solved_at": "2026-10-04T16:52:54.152Z",
+      "last_pushed_at": "2026-10-04T16:52:54.152Z"
     }
   }
 }
