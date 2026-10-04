@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:55:25.665Z",
+  "generated_at": "2026-10-04T16:59:27.392Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3238,6 +3238,17 @@
       "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
       "first_solved_at": "2026-10-04T16:55:24.851Z",
       "last_pushed_at": "2026-10-04T16:55:24.851Z"
+    },
+    "math:115": {
+      "kind": "math",
+      "id": "115",
+      "title": "Boosting: Learning Slowly from Residuals",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/115",
+      "path": "math/0115-boosting-learning-slowly-from-residuals",
+      "first_solved_at": "2026-10-04T16:59:24.583Z",
+      "last_pushed_at": "2026-10-04T16:59:24.583Z"
     }
   }
 }
