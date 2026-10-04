@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**261** solved · 200 problems · 0 labs · 61 math
+**262** solved · 200 problems · 0 labs · 62 math
 
 ![Coverage](./coverage.svg)
 
@@ -266,6 +266,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-21 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-17 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-09-29 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
+| [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-04 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-29 | [solution](math/0028-bayesian-methods) |
 | [Boosting: Learning Slowly from Residuals](https://www.deep-ml.com/math-problems/115) | hard | 2026-10-04 | [solution](math/0115-boosting-learning-slowly-from-residuals) |
 | [Dimension Reduction: Principal Components and Partial Least Squares](https://www.deep-ml.com/math-problems/108) | hard | 2026-10-04 | [solution](math/0108-dimension-reduction-principal-components-and-partial-least-squares) |
