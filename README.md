@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**263** solved · 200 problems · 0 labs · 63 math
+**264** solved · 201 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -176,6 +176,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-09-29 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-29 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-09-30 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-05 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-21 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-29 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Discriminant Analysis (LDA) Binary Classifier](https://www.deep-ml.com/problems/798) | medium | 2026-09-30 | [solution](problems/0798-linear-discriminant-analysis-lda-binary-classifier) |

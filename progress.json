@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:30:14.846Z",
+  "generated_at": "2026-10-05T13:30:20.809Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3293,6 +3293,19 @@
       "path": "math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic",
       "first_solved_at": "2026-10-04T18:30:13.966Z",
       "last_pushed_at": "2026-10-04T18:30:13.966Z"
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-10-05T13:30:19.998Z",
+      "last_pushed_at": "2026-10-05T13:30:19.998Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
