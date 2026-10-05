@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**268** solved · 205 problems · 0 labs · 63 math
+**269** solved · 206 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -192,6 +192,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-09-30 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-24 | [solution](problems/0204-mutual-information) |
+| [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-10-05 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-22 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-09-23 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-20 | [solution](problems/0080-normal-distribution-pdf-calculator) |
