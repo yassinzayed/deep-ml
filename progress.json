@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:48:30.550Z",
+  "generated_at": "2026-10-05T16:48:06.278Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3345,6 +3345,19 @@
       "last_pushed_at": "2026-10-05T13:48:29.783Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:176": {
+      "kind": "problem",
+      "id": "176",
+      "title": "Chi-square Probability Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/176",
+      "path": "problems/0176-chi-square-probability-distribution",
+      "first_solved_at": "2026-10-05T16:48:05.384Z",
+      "last_pushed_at": "2026-10-05T16:48:05.384Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
