@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**272** solved · 209 problems · 0 labs · 63 math
+**273** solved · 210 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-09-24 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-09-24 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-09-24 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-10-06 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-24 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-24 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-10-03 | [solution](problems/0916-implement-triplet-loss) |
