@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**274** solved · 211 problems · 0 labs · 63 math
+**275** solved · 212 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-10-03 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-24 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-23 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Gibbs Softmax Action Selection](https://www.deep-ml.com/problems/641) | easy | 2026-10-06 | [solution](problems/0641-gibbs-softmax-action-selection) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-09-29 | [solution](problems/0188-gradient-checkpointing) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-17 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-09-26 | [solution](problems/0082-grayscale-image-contrast-calculator) |
