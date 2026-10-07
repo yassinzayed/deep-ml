@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:16:36.361Z",
+  "generated_at": "2026-10-07T14:48:39.453Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3462,6 +3462,19 @@
       "last_pushed_at": "2026-10-07T14:16:35.496Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:279": {
+      "kind": "problem",
+      "id": "279",
+      "title": "Calculate Matthews Correlation Coefficient",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/279",
+      "path": "problems/0279-calculate-matthews-correlation-coefficient",
+      "first_solved_at": "2026-10-07T14:48:38.580Z",
+      "last_pushed_at": "2026-10-07T14:48:38.580Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
