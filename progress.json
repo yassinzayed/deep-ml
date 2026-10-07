@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:00:28.345Z",
+  "generated_at": "2026-10-07T17:55:44.092Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3486,6 +3486,19 @@
       "path": "math/0212-strides-and-views-when-a-reshape-is-free",
       "first_solved_at": "2026-10-07T15:00:27.412Z",
       "last_pushed_at": "2026-10-07T15:00:27.412Z"
+    },
+    "problem:387": {
+      "kind": "problem",
+      "id": "387",
+      "title": "Triplet Margin Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/387",
+      "path": "problems/0387-triplet-margin-loss",
+      "first_solved_at": "2026-10-07T17:55:43.069Z",
+      "last_pushed_at": "2026-10-07T17:55:43.069Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }

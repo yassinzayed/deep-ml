@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**278** solved · 214 problems · 0 labs · 64 math
+**279** solved · 215 problems · 0 labs · 64 math
 
 ![Coverage](./coverage.svg)
 
@@ -220,6 +220,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-23 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-09-29 | [solution](problems/0378-temperature-sampling) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-09-28 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
+| [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-10-07 | [solution](problems/0387-triplet-margin-loss) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-22 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-09-30 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-09-22 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
