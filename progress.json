@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:55:44.092Z",
+  "generated_at": "2026-10-07T17:57:00.140Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3496,9 +3496,9 @@
       "url": "https://www.deep-ml.com/problems/387",
       "path": "problems/0387-triplet-margin-loss",
       "first_solved_at": "2026-10-07T17:55:43.069Z",
-      "last_pushed_at": "2026-10-07T17:55:43.069Z",
+      "last_pushed_at": "2026-10-07T17:56:59.264Z",
       "language": "python",
-      "lines": 19
+      "lines": 21
     }
   }
 }

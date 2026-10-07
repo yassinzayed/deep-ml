@@ -13,7 +13,9 @@ def triplet_margin_loss(anchor: np.ndarray, positive: np.ndarray, negative: np.n
     Returns:
         Mean triplet margin loss as a float
     """
-    dp = np.sqrt(np.sum(((anchor-positive)**2), axis=-1))
-    dn = np.sqrt(np.sum(((anchor-negative)**2), axis=-1))
+    #dp = np.sqrt(np.sum(((anchor-positive)**2), axis=-1))
+    #dn = np.sqrt(np.sum(((anchor-negative)**2), axis=-1))
+    dp = np.linalg.norm(anchor-positive, axis=-1)
+    dn = np.linalg.norm(anchor-negative, axis=-1)
     loss = np.where(dp-dn+margin > 0, dp-dn+margin, 0)
     return np.mean(loss)
