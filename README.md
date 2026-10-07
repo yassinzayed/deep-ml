@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**275** solved · 212 problems · 0 labs · 63 math
+**276** solved · 213 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-17 | [solution](problems/0083-dot-product-calculator) |
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2026-09-26 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-17 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
+| [Episodic Info Dictionary Aggregation](https://www.deep-ml.com/problems/665) | easy | 2026-10-07 | [solution](problems/0665-episodic-info-dictionary-aggregation) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-10-06 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-17 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-30 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
