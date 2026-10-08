@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:48:14.552Z",
+  "generated_at": "2026-10-08T20:49:26.032Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3549,6 +3549,17 @@
       "path": "math/0209-term-rewriting-termination-confluence-and-fixed-points",
       "first_solved_at": "2026-10-08T20:48:13.855Z",
       "last_pushed_at": "2026-10-08T20:48:13.855Z"
+    },
+    "math:207": {
+      "kind": "math",
+      "id": "207",
+      "title": "Measuring Insight: Advantage, Too-Easy and Too-Hard Ratios, Reliance and Drift",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/207",
+      "path": "math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift",
+      "first_solved_at": "2026-10-08T20:49:23.795Z",
+      "last_pushed_at": "2026-10-08T20:49:23.795Z"
     }
   }
 }

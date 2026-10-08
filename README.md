@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**283** solved · 218 problems · 0 labs · 65 math
+**284** solved · 218 problems · 0 labs · 66 math
 
 ![Coverage](./coverage.svg)
 
@@ -267,6 +267,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-29 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-19 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-17 | [solution](math/0010-matrix-multiplication) |
+| [Measuring Insight: Advantage, Too-Easy and Too-Hard Ratios, Reliance and Drift](https://www.deep-ml.com/math-problems/207) | medium | 2026-10-08 | [solution](math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-18 | [solution](math/0002-multivariate-calculus) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-09-20 | [solution](math/0036-multivariate-gaussians) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-19 | [solution](math/0003-neural-network-derivatives) |
