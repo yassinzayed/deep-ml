@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**280** solved · 216 problems · 0 labs · 64 math
+**281** solved · 217 problems · 0 labs · 64 math
 
 ![Coverage](./coverage.svg)
 
@@ -126,6 +126,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-17 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Tanh Logit Soft-Capping](https://www.deep-ml.com/problems/1049) | easy | 2026-09-24 | [solution](problems/1049-tanh-logit-soft-capping) |
+| [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-08 | [solution](problems/0310-taylor-series-approximation) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-09-24 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
 | [Tensor Puzzle: Heaviside Step with Zero-Value](https://www.deep-ml.com/problems/1286) | easy | 2026-09-28 | [solution](problems/1286-tensor-puzzle-heaviside-step-with-zero-value) |
 | [Tensor Puzzle: Linspace from Endpoints](https://www.deep-ml.com/problems/1285) | easy | 2026-09-28 | [solution](problems/1285-tensor-puzzle-linspace-from-endpoints) |
