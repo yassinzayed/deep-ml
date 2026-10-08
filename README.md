@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**282** solved · 218 problems · 0 labs · 64 math
+**283** solved · 218 problems · 0 labs · 65 math
 
 ![Coverage](./coverage.svg)
 
@@ -281,6 +281,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-30 | [solution](math/0027-statistical-inference) |
 | [Strides and Views: When a Reshape Is Free](https://www.deep-ml.com/math-problems/212) | medium | 2026-10-07 | [solution](math/0212-strides-and-views-when-a-reshape-is-free) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-19 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
+| [Term Rewriting: Termination, Confluence and Fixed Points](https://www.deep-ml.com/math-problems/209) | medium | 2026-10-08 | [solution](math/0209-term-rewriting-termination-confluence-and-fixed-points) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-30 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-21 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-17 | [solution](math/0008-vector-norms-and-linear-independence) |

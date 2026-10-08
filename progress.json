@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:40:26.821Z",
+  "generated_at": "2026-10-08T20:48:14.552Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3538,6 +3538,17 @@
       "last_pushed_at": "2026-10-08T20:40:25.678Z",
       "language": "python",
       "lines": 23
+    },
+    "math:209": {
+      "kind": "math",
+      "id": "209",
+      "title": "Term Rewriting: Termination, Confluence and Fixed Points",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/209",
+      "path": "math/0209-term-rewriting-termination-confluence-and-fixed-points",
+      "first_solved_at": "2026-10-08T20:48:13.855Z",
+      "last_pushed_at": "2026-10-08T20:48:13.855Z"
     }
   }
 }
