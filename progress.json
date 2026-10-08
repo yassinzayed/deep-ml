@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:51:49.913Z",
+  "generated_at": "2026-10-08T20:55:12.251Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3571,6 +3571,17 @@
       "path": "math/0200-supervision-from-solution-samples-the-alpha-operator-and-the-budget-k",
       "first_solved_at": "2026-10-08T20:51:49.351Z",
       "last_pushed_at": "2026-10-08T20:51:49.351Z"
+    },
+    "math:211": {
+      "kind": "math",
+      "id": "211",
+      "title": "Floor Division and Modulo Identities for Index Math",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/211",
+      "path": "math/0211-floor-division-and-modulo-identities-for-index-math",
+      "first_solved_at": "2026-10-08T20:55:11.227Z",
+      "last_pushed_at": "2026-10-08T20:55:11.227Z"
     }
   }
 }
