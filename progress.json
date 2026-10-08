@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:49:26.032Z",
+  "generated_at": "2026-10-08T20:51:49.913Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3560,6 +3560,17 @@
       "path": "math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift",
       "first_solved_at": "2026-10-08T20:49:23.795Z",
       "last_pushed_at": "2026-10-08T20:49:23.795Z"
+    },
+    "math:200": {
+      "kind": "math",
+      "id": "200",
+      "title": "Supervision from Solution Samples: The Alpha Operator and the Budget K",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/200",
+      "path": "math/0200-supervision-from-solution-samples-the-alpha-operator-and-the-budget-k",
+      "first_solved_at": "2026-10-08T20:51:49.351Z",
+      "last_pushed_at": "2026-10-08T20:51:49.351Z"
     }
   }
 }
