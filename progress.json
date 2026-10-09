@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:55:12.251Z",
+  "generated_at": "2026-10-09T21:04:26.406Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3582,6 +3582,17 @@
       "path": "math/0211-floor-division-and-modulo-identities-for-index-math",
       "first_solved_at": "2026-10-08T20:55:11.227Z",
       "last_pushed_at": "2026-10-08T20:55:11.227Z"
+    },
+    "math:217": {
+      "kind": "math",
+      "id": "217",
+      "title": "Backpropagation Through Movement Ops",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/217",
+      "path": "math/0217-backpropagation-through-movement-ops",
+      "first_solved_at": "2026-10-09T21:04:25.590Z",
+      "last_pushed_at": "2026-10-09T21:04:25.590Z"
     }
   }
 }
