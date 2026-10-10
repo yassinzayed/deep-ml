@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:04:26.406Z",
+  "generated_at": "2026-10-10T20:26:22.908Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3593,6 +3593,17 @@
       "path": "math/0217-backpropagation-through-movement-ops",
       "first_solved_at": "2026-10-09T21:04:25.590Z",
       "last_pushed_at": "2026-10-09T21:04:25.590Z"
+    },
+    "math:185": {
+      "kind": "math",
+      "id": "185",
+      "title": "Why Mean Squared Error Is Non-Convex for Logistic Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/185",
+      "path": "math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression",
+      "first_solved_at": "2026-10-10T20:26:22.138Z",
+      "last_pushed_at": "2026-10-10T20:26:22.138Z"
     }
   }
 }

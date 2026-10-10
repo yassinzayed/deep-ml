@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**287** solved · 218 problems · 0 labs · 69 math
+**288** solved · 218 problems · 0 labs · 70 math
 
 ![Coverage](./coverage.svg)
 
@@ -305,6 +305,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-20 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-29 | [solution](math/0029-probabilistic-models) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-04 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
+| [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-10-10 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-29 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 
 ---
