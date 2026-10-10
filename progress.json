@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:32:13.879Z",
+  "generated_at": "2026-10-10T20:36:44.853Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3615,6 +3615,17 @@
       "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
       "first_solved_at": "2026-10-10T20:32:13.170Z",
       "last_pushed_at": "2026-10-10T20:32:13.170Z"
+    },
+    "math:100": {
+      "kind": "math",
+      "id": "100",
+      "title": "Cox Proportional Hazards and the Hazard Ratio",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/100",
+      "path": "math/0100-cox-proportional-hazards-and-the-hazard-ratio",
+      "first_solved_at": "2026-10-10T20:36:43.660Z",
+      "last_pushed_at": "2026-10-10T20:36:43.660Z"
     }
   }
 }
