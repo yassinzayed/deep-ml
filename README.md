@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**290** solved · 218 problems · 0 labs · 72 math
+**291** solved · 218 problems · 1 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -232,6 +232,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-19 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-09-22 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-27 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-10-11 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 
 ## Math
 
