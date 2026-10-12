@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**294** solved · 220 problems · 1 labs · 73 math
+**295** solved · 220 problems · 1 labs · 74 math
 
 ![Coverage](./coverage.svg)
 
@@ -296,6 +296,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Term Rewriting: Termination, Confluence and Fixed Points](https://www.deep-ml.com/math-problems/209) | medium | 2026-10-08 | [solution](math/0209-term-rewriting-termination-confluence-and-fixed-points) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-30 | [solution](math/0041-the-em-algorithm) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-21 | [solution](math/0046-the-four-fundamental-subspaces) |
+| [The Learning Barrier: Why All-Fail Groups Teach Nothing](https://www.deep-ml.com/math-problems/202) | medium | 2026-10-12 | [solution](math/0202-the-learning-barrier-why-all-fail-groups-teach-nothing) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-17 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-09-29 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
 | [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-04 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
