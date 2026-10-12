@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:53:07.006Z",
+  "generated_at": "2026-10-12T20:11:03.003Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3709,6 +3709,19 @@
       "path": "math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom",
       "first_solved_at": "2026-10-12T17:53:06.275Z",
       "last_pushed_at": "2026-10-12T17:53:06.275Z"
+    },
+    "problem:963": {
+      "kind": "problem",
+      "id": "963",
+      "title": "Scale Attention Scores by sqrt(d_k)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/963",
+      "path": "problems/0963-scale-attention-scores-by-sqrt-d-k",
+      "first_solved_at": "2026-10-12T20:11:02.147Z",
+      "last_pushed_at": "2026-10-12T20:11:02.147Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
