@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**295** solved · 220 problems · 1 labs · 74 math
+**296** solved · 220 problems · 1 labs · 75 math
 
 ![Coverage](./coverage.svg)
 
@@ -317,6 +317,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-10-10 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-29 | [solution](math/0029-probabilistic-models) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-04 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
+| [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-10-12 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
 | [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-10-10 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-29 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 
