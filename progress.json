@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:48:44.560Z",
+  "generated_at": "2026-10-12T17:53:07.006Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3698,6 +3698,17 @@
       "path": "math/0119-regularized-cox-models-and-the-concordance-index",
       "first_solved_at": "2026-10-12T17:48:43.654Z",
       "last_pushed_at": "2026-10-12T17:48:43.654Z"
+    },
+    "math:97": {
+      "kind": "math",
+      "id": "97",
+      "title": "Smoothing Splines: $\\lambda$ and Effective Degrees of Freedom",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/97",
+      "path": "math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom",
+      "first_solved_at": "2026-10-12T17:53:06.275Z",
+      "last_pushed_at": "2026-10-12T17:53:06.275Z"
     }
   }
 }
