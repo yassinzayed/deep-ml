@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**292** solved · 219 problems · 1 labs · 72 math
+**293** solved · 220 problems · 1 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -229,6 +229,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-09-30 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-09-22 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-09-27 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-12 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-21 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-19 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-09-22 | [solution](problems/0028-svd-of-a-2x2-matrix) |
