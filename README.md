@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**291** solved · 218 problems · 1 labs · 72 math
+**292** solved · 219 problems · 1 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-29 | [solution](problems/0148-adamax-optimizer) |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-02 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-09-28 | [solution](problems/1057-balance-dataset-via-undersampling) |
+| [Bernoulli Masking Schedule for Masked Token Prediction](https://www.deep-ml.com/problems/708) | easy | 2026-10-12 | [solution](problems/0708-bernoulli-masking-schedule-for-masked-token-prediction) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-09-26 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-22 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-09-29 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |

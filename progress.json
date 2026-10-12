@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:10:09.695Z",
+  "generated_at": "2026-10-12T02:08:22.437Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3639,6 +3639,19 @@
       "last_pushed_at": "2026-10-11T20:10:08.746Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:708": {
+      "kind": "problem",
+      "id": "708",
+      "title": "Bernoulli Masking Schedule for Masked Token Prediction",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/708",
+      "path": "problems/0708-bernoulli-masking-schedule-for-masked-token-prediction",
+      "first_solved_at": "2026-10-12T02:08:21.641Z",
+      "last_pushed_at": "2026-10-12T02:08:21.641Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
