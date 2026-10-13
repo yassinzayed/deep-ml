@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**301** solved · 224 problems · 1 labs · 76 math
+**302** solved · 225 problems · 1 labs · 76 math
 
 ![Coverage](./coverage.svg)
 
@@ -213,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-20 | [solution](problems/0313-numerical-gradient-checking) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-13 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-01 | [solution](problems/1236-one-adam-update-step) |
+| [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-13 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-09-19 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-29 | [solution](problems/0801-polynomial-regression-fit) |

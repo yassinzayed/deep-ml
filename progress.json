@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:44:21.516Z",
+  "generated_at": "2026-10-13T15:57:04.762Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3761,6 +3761,19 @@
       "last_pushed_at": "2026-10-13T15:44:20.442Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-10-13T15:57:03.735Z",
+      "last_pushed_at": "2026-10-13T15:57:03.735Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
