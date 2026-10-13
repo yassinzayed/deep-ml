@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:57:04.762Z",
+  "generated_at": "2026-10-13T16:01:16.625Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3774,6 +3774,17 @@
       "last_pushed_at": "2026-10-13T15:57:03.735Z",
       "language": "python",
       "lines": 29
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-10-13T16:01:15.804Z",
+      "last_pushed_at": "2026-10-13T16:01:15.804Z"
     }
   }
 }

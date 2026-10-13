@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**302** solved · 225 problems · 1 labs · 76 math
+**303** solved · 225 problems · 1 labs · 77 math
 
 ![Coverage](./coverage.svg)
 
@@ -323,6 +323,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-29 | [solution](math/0029-probabilistic-models) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-04 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-10-12 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
+| [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-13 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 | [Smoothing Splines: $\lambda$ and Effective Degrees of Freedom](https://www.deep-ml.com/math-problems/97) | hard | 2026-10-12 | [solution](math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom) |
 | [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-10-10 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-29 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
