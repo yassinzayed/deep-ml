@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**303** solved · 225 problems · 1 labs · 77 math
+**304** solved · 225 problems · 1 labs · 78 math
 
 ![Coverage](./coverage.svg)
 
@@ -308,6 +308,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-29 | [solution](math/0028-bayesian-methods) |
 | [Boosting: Learning Slowly from Residuals](https://www.deep-ml.com/math-problems/115) | hard | 2026-10-04 | [solution](math/0115-boosting-learning-slowly-from-residuals) |
 | [Cox Proportional Hazards and the Hazard Ratio](https://www.deep-ml.com/math-problems/100) | hard | 2026-10-10 | [solution](math/0100-cox-proportional-hazards-and-the-hazard-ratio) |
+| [Diffusion as an SDE: Forward, Reverse and the Probability-Flow ODE](https://www.deep-ml.com/math-problems/249) | hard | 2026-10-13 | [solution](math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode) |
 | [Dimension Reduction: Principal Components and Partial Least Squares](https://www.deep-ml.com/math-problems/108) | hard | 2026-10-04 | [solution](math/0108-dimension-reduction-principal-components-and-partial-least-squares) |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-10-04 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-20 | [solution](math/0016-eigendecomposition-and-svd) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:01:16.625Z",
+  "generated_at": "2026-10-13T23:42:04.008Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3785,6 +3785,17 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-10-13T16:01:15.804Z",
       "last_pushed_at": "2026-10-13T16:01:15.804Z"
+    },
+    "math:249": {
+      "kind": "math",
+      "id": "249",
+      "title": "Diffusion as an SDE: Forward, Reverse and the Probability-Flow ODE",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/249",
+      "path": "math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode",
+      "first_solved_at": "2026-10-13T23:42:03.163Z",
+      "last_pushed_at": "2026-10-13T23:42:03.163Z"
     }
   }
 }
