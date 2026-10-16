@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:42:04.008Z",
+  "generated_at": "2026-10-16T19:30:01.194Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3796,6 +3796,17 @@
       "path": "math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode",
       "first_solved_at": "2026-10-13T23:42:03.163Z",
       "last_pushed_at": "2026-10-13T23:42:03.163Z"
+    },
+    "math:223": {
+      "kind": "math",
+      "id": "223",
+      "title": "Ordinary vs Weighted Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/223",
+      "path": "math/0223-ordinary-vs-weighted-importance-sampling",
+      "first_solved_at": "2026-10-16T19:30:00.480Z",
+      "last_pushed_at": "2026-10-16T19:30:00.480Z"
     }
   }
 }

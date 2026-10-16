@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**304** solved · 225 problems · 1 labs · 78 math
+**305** solved · 225 problems · 1 labs · 79 math
 
 ![Coverage](./coverage.svg)
 
@@ -321,6 +321,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-20 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-20 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-10-10 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
+| [Ordinary vs Weighted Importance Sampling](https://www.deep-ml.com/math-problems/223) | hard | 2026-10-16 | [solution](math/0223-ordinary-vs-weighted-importance-sampling) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-29 | [solution](math/0029-probabilistic-models) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-04 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-10-12 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
