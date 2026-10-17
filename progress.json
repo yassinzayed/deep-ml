@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:30:01.194Z",
+  "generated_at": "2026-10-17T17:02:43.180Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3807,6 +3807,19 @@
       "path": "math/0223-ordinary-vs-weighted-importance-sampling",
       "first_solved_at": "2026-10-16T19:30:00.480Z",
       "last_pushed_at": "2026-10-16T19:30:00.480Z"
+    },
+    "problem:964": {
+      "kind": "problem",
+      "id": "964",
+      "title": "Transfer Weights from Linear-Style to Parameter-Style Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/964",
+      "path": "problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention",
+      "first_solved_at": "2026-10-17T17:02:42.469Z",
+      "last_pushed_at": "2026-10-17T17:02:42.469Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

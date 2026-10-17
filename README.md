@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**305** solved · 225 problems · 1 labs · 79 math
+**306** solved · 226 problems · 1 labs · 79 math
 
 ![Coverage](./coverage.svg)
 
@@ -228,6 +228,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-23 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-09-29 | [solution](problems/0378-temperature-sampling) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-09-28 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
+| [Transfer Weights from Linear-Style to Parameter-Style Self-Attention](https://www.deep-ml.com/problems/964) | medium | 2026-10-17 | [solution](problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention) |
 | [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-10-07 | [solution](problems/0387-triplet-margin-loss) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-22 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [UniPC Predictor-Corrector Step](https://www.deep-ml.com/problems/462) | medium | 2026-10-07 | [solution](problems/0462-unipc-predictor-corrector-step) |
