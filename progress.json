@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:02:43.180Z",
+  "generated_at": "2026-10-19T14:36:13.068Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -2959,7 +2959,7 @@
       "url": "https://www.deep-ml.com/problems/192",
       "path": "problems/0192-implement-the-huber-loss-function",
       "first_solved_at": "2026-09-30T17:22:17.593Z",
-      "last_pushed_at": "2026-09-30T17:22:17.593Z",
+      "last_pushed_at": "2026-10-19T14:36:12.294Z",
       "language": "python",
       "lines": 16
     },
