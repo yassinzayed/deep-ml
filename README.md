@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**308** solved · 228 problems · 1 labs · 79 math
+**309** solved · 228 problems · 1 labs · 80 math
 
 ![Coverage](./coverage.svg)
 
@@ -265,6 +265,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-23 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-17 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-17 | [solution](math/0007-vector-operations) |
+| [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-20 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-20 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Backpropagation Through Movement Ops](https://www.deep-ml.com/math-problems/217) | medium | 2026-10-09 | [solution](math/0217-backpropagation-through-movement-ops) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-20 | [solution](math/0020-bayes-theorem) |
