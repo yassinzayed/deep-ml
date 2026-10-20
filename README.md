@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**307** solved · 227 problems · 1 labs · 79 math
+**308** solved · 228 problems · 1 labs · 79 math
 
 ![Coverage](./coverage.svg)
 
@@ -189,6 +189,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-25 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-10-13 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-29 | [solution](problems/0278-implement-precision-recall-curve) |
+| [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-10-20 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-09-23 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-29 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-09-29 | [solution](problems/0200-implement-rmsprop-optimizer) |
