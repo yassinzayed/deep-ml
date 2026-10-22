@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:36:33.027Z",
+  "generated_at": "2026-10-22T17:58:21.154Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3857,6 +3857,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-20T17:36:32.296Z",
       "last_pushed_at": "2026-10-20T17:36:32.296Z"
+    },
+    "problem:211": {
+      "kind": "problem",
+      "id": "211",
+      "title": "Two-Sample T-Test Implementation",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/211",
+      "path": "problems/0211-two-sample-t-test-implementation",
+      "first_solved_at": "2026-10-22T17:58:20.275Z",
+      "last_pushed_at": "2026-10-22T17:58:20.275Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }
