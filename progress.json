@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:58:44.571Z",
+  "generated_at": "2026-10-22T18:47:59.673Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3870,6 +3870,17 @@
       "last_pushed_at": "2026-10-22T17:58:43.740Z",
       "language": "python",
       "lines": 88
+    },
+    "math:241": {
+      "kind": "math",
+      "id": "241",
+      "title": "On-Policy Distillation: Reverse KL from Many Teachers",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/241",
+      "path": "math/0241-on-policy-distillation-reverse-kl-from-many-teachers",
+      "first_solved_at": "2026-10-22T18:47:59.058Z",
+      "last_pushed_at": "2026-10-22T18:47:59.058Z"
     }
   }
 }

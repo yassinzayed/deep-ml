@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**310** solved · 229 problems · 1 labs · 80 math
+**311** solved · 229 problems · 1 labs · 81 math
 
 ![Coverage](./coverage.svg)
 
@@ -326,6 +326,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-20 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-20 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-10-10 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
+| [On-Policy Distillation: Reverse KL from Many Teachers](https://www.deep-ml.com/math-problems/241) | hard | 2026-10-22 | [solution](math/0241-on-policy-distillation-reverse-kl-from-many-teachers) |
 | [Ordinary vs Weighted Importance Sampling](https://www.deep-ml.com/math-problems/223) | hard | 2026-10-16 | [solution](math/0223-ordinary-vs-weighted-importance-sampling) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-29 | [solution](math/0029-probabilistic-models) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-04 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
