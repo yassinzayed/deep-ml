@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**312** solved · 229 problems · 1 labs · 82 math
+**313** solved · 230 problems · 1 labs · 82 math
 
 ![Coverage](./coverage.svg)
 
@@ -230,6 +230,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-23 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-09-29 | [solution](problems/0378-temperature-sampling) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-09-28 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
+| [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-10-23 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 | [Transfer Weights from Linear-Style to Parameter-Style Self-Attention](https://www.deep-ml.com/problems/964) | medium | 2026-10-17 | [solution](problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention) |
 | [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-10-07 | [solution](problems/0387-triplet-margin-loss) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-22 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |

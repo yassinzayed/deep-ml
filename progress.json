@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:05:42.977Z",
+  "generated_at": "2026-10-23T13:51:15.542Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3892,6 +3892,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-23T01:05:42.217Z",
       "last_pushed_at": "2026-10-23T01:05:42.217Z"
+    },
+    "problem:1032": {
+      "kind": "problem",
+      "id": "1032",
+      "title": "Tokens-per-Second Throughput from Inference Intervals",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1032",
+      "path": "problems/1032-tokens-per-second-throughput-from-inference-intervals",
+      "first_solved_at": "2026-10-23T13:51:14.675Z",
+      "last_pushed_at": "2026-10-23T13:51:14.675Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
