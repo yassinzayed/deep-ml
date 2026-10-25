@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:58:28.958Z",
+  "generated_at": "2026-10-25T02:01:18.351Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3938,6 +3938,17 @@
       "path": "math/0295-steering-vectors-editing-behaviour-by-adding-a-direction",
       "first_solved_at": "2026-10-25T01:58:28.279Z",
       "last_pushed_at": "2026-10-25T01:58:28.279Z"
+    },
+    "math:74": {
+      "kind": "math",
+      "id": "74",
+      "title": "Properties of Estimators: Bias, Consistency, Efficiency",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/74",
+      "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
+      "first_solved_at": "2026-10-25T02:01:17.601Z",
+      "last_pushed_at": "2026-10-25T02:01:17.601Z"
     }
   }
 }
