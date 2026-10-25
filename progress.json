@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:51:26.274Z",
+  "generated_at": "2026-10-25T01:53:49.583Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3905,6 +3905,17 @@
       "last_pushed_at": "2026-10-23T13:51:25.599Z",
       "language": "python",
       "lines": 37
+    },
+    "math:307": {
+      "kind": "math",
+      "id": "307",
+      "title": "Prefill and Decode in Different Datacenters: The Transfer Budget",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/307",
+      "path": "math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget",
+      "first_solved_at": "2026-10-25T01:53:48.917Z",
+      "last_pushed_at": "2026-10-25T01:53:48.917Z"
     }
   }
 }
