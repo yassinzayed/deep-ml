@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:53:49.583Z",
+  "generated_at": "2026-10-25T01:56:36.836Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3916,6 +3916,17 @@
       "path": "math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget",
       "first_solved_at": "2026-10-25T01:53:48.917Z",
       "last_pushed_at": "2026-10-25T01:53:48.917Z"
+    },
+    "math:293": {
+      "kind": "math",
+      "id": "293",
+      "title": "The Toy Model of Superposition: Where the Phase Change Happens",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/293",
+      "path": "math/0293-the-toy-model-of-superposition-where-the-phase-change-happens",
+      "first_solved_at": "2026-10-25T01:56:36.183Z",
+      "last_pushed_at": "2026-10-25T01:56:36.183Z"
     }
   }
 }
