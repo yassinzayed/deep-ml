@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:56:36.836Z",
+  "generated_at": "2026-10-25T01:58:28.958Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -3927,6 +3927,17 @@
       "path": "math/0293-the-toy-model-of-superposition-where-the-phase-change-happens",
       "first_solved_at": "2026-10-25T01:56:36.183Z",
       "last_pushed_at": "2026-10-25T01:56:36.183Z"
+    },
+    "math:295": {
+      "kind": "math",
+      "id": "295",
+      "title": "Steering Vectors: Editing Behaviour by Adding a Direction",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/295",
+      "path": "math/0295-steering-vectors-editing-behaviour-by-adding-a-direction",
+      "first_solved_at": "2026-10-25T01:58:28.279Z",
+      "last_pushed_at": "2026-10-25T01:58:28.279Z"
     }
   }
 }
