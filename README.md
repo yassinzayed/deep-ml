@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**317** solved · 230 problems · 1 labs · 86 math
+**318** solved · 231 problems · 1 labs · 86 math
 
 ![Coverage](./coverage.svg)
 
@@ -128,6 +128,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-17 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-10-12 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-11-03 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Streaming ASR Latency Budget: Chunk Size, Real-Time Factor and Round Trip](https://www.deep-ml.com/problems/1442) | easy | 2026-10-20 | [solution](problems/1442-streaming-asr-latency-budget-chunk-size-real-time-factor-and-round-trip) |
 | [Tanh Logit Soft-Capping](https://www.deep-ml.com/problems/1049) | easy | 2026-09-24 | [solution](problems/1049-tanh-logit-soft-capping) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-10-08 | [solution](problems/0310-taylor-series-approximation) |
