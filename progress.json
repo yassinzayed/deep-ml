@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:48:58.543Z",
+  "generated_at": "2026-11-05T18:57:12.876Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -4025,6 +4025,17 @@
       "path": "math/0574-two-view-geometry-the-epipolar-constraint-essential-versus-fundamental-matrix-and-stereo-depth",
       "first_solved_at": "2026-11-05T18:48:57.663Z",
       "last_pushed_at": "2026-11-05T18:48:57.663Z"
+    },
+    "math:560": {
+      "kind": "math",
+      "id": "560",
+      "title": "The Prompt Boundary Problem: Scoring a Completion When the Prompt Ends Mid-Token",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/560",
+      "path": "math/0560-the-prompt-boundary-problem-scoring-a-completion-when-the-prompt-ends-mid-token",
+      "first_solved_at": "2026-11-05T18:57:11.575Z",
+      "last_pushed_at": "2026-11-05T18:57:11.575Z"
     }
   }
 }
