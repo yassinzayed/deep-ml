@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**322** solved · 235 problems · 1 labs · 86 math
+**323** solved · 235 problems · 1 labs · 87 math
 
 ![Coverage](./coverage.svg)
 
@@ -344,6 +344,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-13 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 | [Smoothing Splines: $\lambda$ and Effective Degrees of Freedom](https://www.deep-ml.com/math-problems/97) | hard | 2026-10-12 | [solution](math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom) |
 | [The Toy Model of Superposition: Where the Phase Change Happens](https://www.deep-ml.com/math-problems/293) | hard | 2026-10-25 | [solution](math/0293-the-toy-model-of-superposition-where-the-phase-change-happens) |
+| [Two-View Geometry: The Epipolar Constraint, Essential Versus Fundamental Matrix, and Stereo Depth](https://www.deep-ml.com/math-problems/574) | hard | 2026-11-05 | [solution](math/0574-two-view-geometry-the-epipolar-constraint-essential-versus-fundamental-matrix-and-stereo-depth) |
 | [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-10-10 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-29 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 

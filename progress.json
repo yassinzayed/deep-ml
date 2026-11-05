@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:18:59.910Z",
+  "generated_at": "2026-11-05T18:48:58.543Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -4014,6 +4014,17 @@
       "last_pushed_at": "2026-11-03T17:18:59.180Z",
       "language": "python",
       "lines": 16
+    },
+    "math:574": {
+      "kind": "math",
+      "id": "574",
+      "title": "Two-View Geometry: The Epipolar Constraint, Essential Versus Fundamental Matrix, and Stereo Depth",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/math-problems/574",
+      "path": "math/0574-two-view-geometry-the-epipolar-constraint-essential-versus-fundamental-matrix-and-stereo-depth",
+      "first_solved_at": "2026-11-05T18:48:57.663Z",
+      "last_pushed_at": "2026-11-05T18:48:57.663Z"
     }
   }
 }
