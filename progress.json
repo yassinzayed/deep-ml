@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:40:14.379Z",
+  "generated_at": "2026-11-08T16:56:54.665Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -4036,6 +4036,19 @@
       "path": "math/0560-the-prompt-boundary-problem-scoring-a-completion-when-the-prompt-ends-mid-token",
       "first_solved_at": "2026-11-05T18:57:11.575Z",
       "last_pushed_at": "2026-11-05T18:57:11.575Z"
+    },
+    "problem:250": {
+      "kind": "problem",
+      "id": "250",
+      "title": "Calculate SLA Compliance Metrics for Model Service",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/250",
+      "path": "problems/0250-calculate-sla-compliance-metrics-for-model-service",
+      "first_solved_at": "2026-11-08T16:56:54.082Z",
+      "last_pushed_at": "2026-11-08T16:56:54.082Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
