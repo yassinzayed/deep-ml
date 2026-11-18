@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**325** solved · 236 problems · 1 labs · 88 math
+**326** solved · 237 problems · 1 labs · 88 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-09-25 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-09-26 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-09-27 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-18 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-29 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-03 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-09-19 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
