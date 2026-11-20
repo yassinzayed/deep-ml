@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:49:33.346Z",
+  "generated_at": "2026-11-20T20:31:53.898Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -4075,6 +4075,17 @@
       "last_pushed_at": "2026-11-20T18:49:32.549Z",
       "language": "python",
       "lines": 27
+    },
+    "math:672": {
+      "kind": "math",
+      "id": "672",
+      "title": "Recovery Rate: How Much of a Teacher's Gain a Distilled Student Captures",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/672",
+      "path": "math/0672-recovery-rate-how-much-of-a-teacher-s-gain-a-distilled-student-captures",
+      "first_solved_at": "2026-11-20T20:31:52.905Z",
+      "last_pushed_at": "2026-11-20T20:31:52.905Z"
     }
   }
 }

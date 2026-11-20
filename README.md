@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**327** solved · 238 problems · 1 labs · 88 math
+**328** solved · 238 problems · 1 labs · 89 math
 
 ![Coverage](./coverage.svg)
 
@@ -275,6 +275,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-23 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Prefill and Decode in Different Datacenters: The Transfer Budget](https://www.deep-ml.com/math-problems/307) | easy | 2026-10-25 | [solution](math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-17 | [solution](math/0019-probability-fundamentals) |
+| [Recovery Rate: How Much of a Teacher's Gain a Distilled Student Captures](https://www.deep-ml.com/math-problems/672) | easy | 2026-11-20 | [solution](math/0672-recovery-rate-how-much-of-a-teacher-s-gain-a-distilled-student-captures) |
 | [Steering Vectors: Editing Behaviour by Adding a Direction](https://www.deep-ml.com/math-problems/295) | easy | 2026-10-25 | [solution](math/0295-steering-vectors-editing-behaviour-by-adding-a-direction) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-17 | [solution](math/0007-vector-operations) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-20 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
