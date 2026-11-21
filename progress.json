@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:35:28.654Z",
+  "generated_at": "2026-11-21T16:45:39.047Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -4086,6 +4086,17 @@
       "path": "math/0672-recovery-rate-how-much-of-a-teacher-s-gain-a-distilled-student-captures",
       "first_solved_at": "2026-11-20T20:31:52.905Z",
       "last_pushed_at": "2026-11-20T20:31:52.905Z"
+    },
+    "math:82": {
+      "kind": "math",
+      "id": "82",
+      "title": "Bootstrap Resampling: $(1-1/n)^n$ and Out-of-Bag Points",
+      "difficulty": "easy",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/82",
+      "path": "math/0082-bootstrap-resampling-1-1-n-n-and-out-of-bag-points",
+      "first_solved_at": "2026-11-21T16:45:38.387Z",
+      "last_pushed_at": "2026-11-21T16:45:38.387Z"
     }
   }
 }

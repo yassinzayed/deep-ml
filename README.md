@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**328** solved · 238 problems · 1 labs · 89 math
+**329** solved · 238 problems · 1 labs · 90 math
 
 ![Coverage](./coverage.svg)
 
@@ -263,6 +263,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bootstrap Resampling: $(1-1/n)^n$ and Out-of-Bag Points](https://www.deep-ml.com/math-problems/82) | easy | 2026-11-21 | [solution](math/0082-bootstrap-resampling-1-1-n-n-and-out-of-bag-points) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-23 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-17 | [solution](math/0001-derivatives-and-gradients) |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-17 | [solution](math/0018-descriptive-statistics) |
