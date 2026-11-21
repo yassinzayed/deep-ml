@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:45:39.047Z",
+  "generated_at": "2026-11-21T16:52:39.521Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -4097,6 +4097,19 @@
       "path": "math/0082-bootstrap-resampling-1-1-n-n-and-out-of-bag-points",
       "first_solved_at": "2026-11-21T16:45:38.387Z",
       "last_pushed_at": "2026-11-21T16:45:38.387Z"
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-11-21T16:52:38.845Z",
+      "last_pushed_at": "2026-11-21T16:52:38.845Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
